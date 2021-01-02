@@ -1,7 +1,7 @@
 # login-create-form
-#needed libraries:
+# needed libraries:
 xxtea
 PyQt5
 psycopg2
-#limitations:
+# limitations:
 at most 2 connections 
